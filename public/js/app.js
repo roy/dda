@@ -27,7 +27,7 @@
     initCountdown: function(){
       $('#countdown_dashboard').countDown({
         targetDate: {
-          'day':      14,
+          'day':      21,
           'month':    4,
           'year':     2011,
           'hour':     20,
